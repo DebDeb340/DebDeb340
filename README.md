@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DebDeb340
 - 👀 I’m interested in Data Analyst and Business Analyst tips and tricks
-- 🌱 I’m currently in training to become a Data Analyst 
+- 🌱 I’m currently looking for a Data Analyst position
 - 💞️ I’m looking to collaborate on whatever can help me get better at my job
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
